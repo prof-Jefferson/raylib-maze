@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WEnWapagKcW2CcKixjpDt7Wjic2+BJecLaMOrnzBRPejszK09UtIzzOKc8O6De9PD2Bmwf5CNH9rQgomjZuHKg==",
+  "dgSpecHash": "xTE4Fsdf+s3/LGBJlUjkJjXdczPGUGiqJbdfzKVOPBshTeASl202cEHis2H9am4Cp+wjTVrDVRBpvRVR/hGLyw==",
   "success": true,
   "projectFilePath": "/home/pinguim/Desenv/Raylib-Maze/Raylib-Maze.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/pinguim/.nuget/packages/raylib-cs/7.0.1/raylib-cs.7.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
