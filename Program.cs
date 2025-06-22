@@ -31,7 +31,7 @@ class Program
         while (!Raylib.WindowShouldClose())
         {
             Raylib.BeginDrawing();
-            Raylib.ClearBackground(Color.RAYWHITE);
+            Raylib.ClearBackground(Color.RayWhite);
 
             // Gera um passo do labirinto e desenha
             generator.GenerateStepwise();
