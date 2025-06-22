@@ -1,0 +1,28 @@
+# Ignore arquivos de build e publicação
+bin/
+obj/
+*.user
+*.suo
+
+# Ignore arquivos temporários
+*.tmp
+*.log
+
+# Configurações específicas do Rider/VSCode/Visual Studio
+.vscode/
+.idea/
+*.csproj.user
+
+# Ignore pacotes e dependências baixadas
+packages/
+*.nupkg
+*.snupkg
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignore dados sensíveis e chaves
+*.pfx
+*.key
+secrets.json
