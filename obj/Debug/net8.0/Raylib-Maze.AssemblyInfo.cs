@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Raylib-Maze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dac00ad2959ad6af6c4bbb3b5cafc9d4f5124334")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c252e37566522f04ef2605f85bd2019ea4a163f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Raylib-Maze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Raylib-Maze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

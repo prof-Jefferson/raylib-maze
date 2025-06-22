@@ -134,13 +134,13 @@ public class Pathfinder
     public void Draw(int cellSize)
     {
         foreach (var cell in closedSet)
-            Raylib.DrawRectangle(cell.X * cellSize, cell.Y * cellSize, cellSize, cellSize, Color.RED);
+            Raylib.DrawRectangle(cell.X * cellSize, cell.Y * cellSize, cellSize, cellSize, Color.Red);
 
         foreach (var cell in openSet)
-            Raylib.DrawRectangle(cell.X * cellSize, cell.Y * cellSize, cellSize, cellSize, Color.GREEN);
+            Raylib.DrawRectangle(cell.X * cellSize, cell.Y * cellSize, cellSize, cellSize, Color.Green);
 
         foreach (var cell in path)
-            Raylib.DrawRectangle(cell.X * cellSize, cell.Y * cellSize, cellSize, cellSize, Color.GOLD);
+            Raylib.DrawRectangle(cell.X * cellSize, cell.Y * cellSize, cellSize, cellSize, Color.Gold);
     }
 
     /// <summary>
